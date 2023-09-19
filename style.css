@@ -76,3 +76,14 @@ button {
 #prev {
   right: calc(50vw + 30px);
 }
+
+.special-txt span {
+  color: #fff;
+  z-index: 999;
+  font-size: 5rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
