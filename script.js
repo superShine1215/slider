@@ -50,4 +50,4 @@ setInterval(() => {
   nextSlide();
   setBgImg();
   setActiveSlide();
-}, 5000);
+}, 15000);
